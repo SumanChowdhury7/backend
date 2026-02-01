@@ -9,8 +9,7 @@ mongoose.connect('mongodb+srv://sumansmc546_db_user:pk8CyrePvsxQWowi@cluster0.qx
 
 }
 
-connectToDb();0
-3+
+connectToDb();
 
 
 
